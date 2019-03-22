@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\controllers",
+    "\\RolMaster",
+    "\\RolMaster\\src",
+    "\\RolMaster\\src\\app",
+    "\\RolMaster\\src\\app\\home",
+    "\\RolMaster\\src\\app\\list",
+    "\\RolMaster\\src\\app\\services",
+    "\\routes"
+  ],
+  "SelectedNode": "\\RolMaster\\src\\app\\home\\home.page.ts",
+  "PreviewInSolutionExplorer": false
+}
